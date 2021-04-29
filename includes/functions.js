@@ -11,7 +11,7 @@ function invalid_password(){
     alert("invalid password")
 }
 function cant_verified(){
-    alert("verification unsuccessful try again later. ")
+    alert(" verification unsuccessful try again later. ")
 }
 
 function not_Student(){
